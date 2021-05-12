@@ -1,0 +1,1 @@
+{"version":3,"sources":["common.css"],"names":[],"mappings":"AAAA,MAEE,eAAgB,CAChB,kBACF","file":"src.3a6f4633.css","sourceRoot":"..\\src","sourcesContent":["ul,\r\nli {\r\n  list-style: none;\r\n  margin-bottom: 10px;\r\n}\r\n"]}
